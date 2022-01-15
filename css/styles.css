@@ -11426,6 +11426,16 @@ section.resume-section .resume-section-content {
 
 }
 
+.project {
+  margin-bottom: 20px;
+  
+}
+
+.projects .project img {
+  width: 70%;
+  height: auto;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 40vh;
