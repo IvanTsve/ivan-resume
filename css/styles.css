@@ -11438,6 +11438,17 @@ section.resume-section .resume-section-content {
   height: auto;
 }
 
+
+.fa-github {
+  text-decoration: none;
+  color: #6c757d;
+}
+
+.fa-github:hover {
+  color: #6c757d;
+}
+
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 40vh;
